@@ -10,8 +10,10 @@
     <img src="https://img.shields.io/badge/Coursera-0747a6?style=flat&logo=coursera&logoColor=white" />
     <img src="https://img.shields.io/badge/Meta-e2e2e2?style=flat&logo=meta&logoColor=0668E1" />
     <img src="https://img.shields.io/badge/Jetpack%20Compose-0a2d3a?style=flat&logo=jetpack-compose&logoColor=3DDC84">
-    <img src="https://img.shields.io/badge/Grading%20criteria-Ongoing-orange" />
+    <img src="https://img.shields.io/badge/Grading%20criteria-Passing-brightgreen" />
 </p>
+
+> To be honest, I'm not interested in mobile app development, but I completed this specialization to fulfill the requirements of getting the [Meta Generalist Software Engineer Certificate](https://www.credly.com/org/coursera/badge/meta-generalist-software-engineer-certificate).
 
 ## Description
 
